@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -98,5 +99,8 @@
       }
     }
   },
-  "defaultProject": "recipe-project"
+  "defaultProject": "recipe-project",
+  "cli": {
+    "analytics": "a65f1819-864b-4421-9a6c-68331fb782f3"
+  }
 }
